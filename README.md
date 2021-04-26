@@ -1,4 +1,4 @@
-### 👋 Hi, I’m pm. or you can call me phantoms.
+### 👋 Hi, I'm pm. | phantoms.
 - 👀 Skills: UI Designing, Basic Web Development
 - 📝 Currently learning: Web Development
 - 🌱 Developing: Electora - The powerful Discord Bot
