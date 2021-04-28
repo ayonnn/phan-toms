@@ -1,21 +1,18 @@
 ![](https://api.ghprofile.me/view?username=phan-toms)
 
-### 👋 Hi, I'm pm. | phantoms.
-- 👀 Skills: UI Designing, Basic Web Development
-- 📝 Currently learning: Web Development
-- 🌱 Developing: Electora - The powerful Discord Bot
-- ✨ Goals: My goals are to accomplish and launch my creative projects!
-- ✨ Portfolio: https://phantoms.live
-
-About me: I am a young a starting Developer, and also a UI Designer! Holding the knowledge of HTML, CSS, and some JavaScript. Currently learning more JavaScript!
+### 👋 Hi, I'm pm.
+I'm a young UI Designer, Learning Developer, and a Aspiring Entrepreneur.
  
-✨ My current projects in mind are
-- Electora - The powerful Discord Bot (Electora won't be open source, sorry..)
-- ProfileCord - Creating profiles with Discord 
-- CoffeeForDevs - A simple way to collaborate with others in this newly chat platform.
-- RyzenX - The new fastest and most secured browser. 
+## ✨ So, what am I doing now?!
+Currently, I am learning to Web Development with the Odin Project, and developing a next generation Discord Bot. Progress with the Odin Project 
+is very exciting, and I highly recommend using it if you are looking to learn Web Development. I am developing Electora - The new and powerful Discord Bot. It's 
+one of those Discord Bots that can help engage your server.
 
-### 🛠️ Software
+## 👀 Experience
+My number one skill is UI Designing. This is a useful skill as it can help me brainstorm what I want my future projects to look like. I have only some knowledge of Web Development like HTML & CSS, but have at least a fair amount of knowledge of JavaScript. At the start, my way of learning was a mess, and I restarted everything with the Odin Project.
+Also, gaming is probably one of the things I'm skilled at.
+
+## 🛠️ Software
 ![image](https://user-images.githubusercontent.com/75280270/116026536-ce3cb900-a607-11eb-98a1-597be872bc3e.png)
 ![image](https://user-images.githubusercontent.com/75280270/116026548-d1d04000-a607-11eb-978a-f40117ccce87.png)
 ![image](https://user-images.githubusercontent.com/75280270/116026596-e6acd380-a607-11eb-80ed-a84ffd2778f8.png)
@@ -23,4 +20,4 @@ About me: I am a young a starting Developer, and also a UI Designer! Holding the
 ![image](https://user-images.githubusercontent.com/75280270/116026570-da287b00-a607-11eb-8ec9-58efa7cbec82.png)
 ![image](https://user-images.githubusercontent.com/75280270/116026585-e0b6f280-a607-11eb-8647-e52f4c021d3d.png)
 
-Last Updated 4/25/2021!
+Last Updated 4/28/2021!
